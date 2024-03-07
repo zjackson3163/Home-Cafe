@@ -1,0 +1,99 @@
+body {
+    background: #EED9C3;
+}
+
+.main{
+    background-color: #FCF6F0;
+    transform: scale(0.85);
+    border-radius: 2%;
+    height:2100px;
+    width: 100%;
+    margin-top: -140px;
+}
+
+.logo {
+    width: 80;
+    display: inline-block;
+    margin: 5px 15px 5px 0px;
+    /*vertical-align: middle;*/
+}
+
+nav {
+    background-color:#b4804f9a;
+    border-radius: 20px 20px 0px 0px;
+    width: 100%;
+}
+
+nav ul {
+    margin: 0;
+}
+
+nav ul li {
+    margin: 10px 105px 5px 10px;
+    display: inline-block;
+    vertical-align: middle;
+    list-style-type: none;
+}
+
+nav ul li a {
+    color: #38281E;
+    font-family: 'Sacramento';
+    font-weight: 500;
+    font-size: 36px;
+    text-decoration: none;
+}
+
+.button{
+    background-color: #38281E;
+    color: white;
+    font-family: 'Sacramento';
+    font-size: 36px;
+    text-align: center;
+    vertical-align: middle;
+    text-decoration: none;
+    padding: 5px 15px 0px 15px;
+    display: inline-block;
+    border-radius: 25px;
+}
+
+.banner {
+    /*position: absolute;*/
+    width: 84%;
+    margin: 5% 5% 5% 8.5%;
+    border-radius: 50px;
+}
+
+p {
+    color: #38281E; 
+    font-family: "Sacramento"; 
+    font-size: 36px;
+    width: 77%;
+    text-align: center;
+    margin: 0% 12% 0% 12%;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.column {
+    float: left;
+    margin: 5% 0% 2% 12.5%;
+    width: 32%;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    border-radius: 50px;
+    }
+
+.rectangle {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+}
+
+.toTop {
+    position: absolute;
+    text-align: center;
+    margin: -22vw 11.5vw;
+    width: 77%;
+    color: #908162;
+    font-family: 'Outfit';
+    text-decoration: none;
+}
+
