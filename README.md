@@ -1,4 +1,4 @@
 Future Updates...
 - Making navbar mobile friendly
-- Changing setup to have fewer pages and more reusable code
+- Changing setup to have fewer pages and more reusable code (MVC Pattern)
 - Adding recipes!
